@@ -19,4 +19,9 @@ Additional
 API calls to fake JSON server  
 Transition animations  
 
+Installation  
+------------------------------  
+Follow the instructions in instructions.md
+
+
 Design and development by Magdalena Maglicic
