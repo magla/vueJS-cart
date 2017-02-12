@@ -1,0 +1,1333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valid",
+				"validForm"
+			],
+			[
+				"category",
+				"categoryName"
+			],
+			[
+				"consoe",
+				"console.log"
+			],
+			[
+				"error",
+				"errorMsg"
+			],
+			[
+				"c",
+				"cjenik"
+			],
+			[
+				"serializ",
+				"serializeArray\t.serializeArray()"
+			],
+			[
+				"text",
+				"text-transform: "
+			],
+			[
+				"border",
+				"border-radius: "
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"other",
+				"otherFieldsValid"
+			],
+			[
+				"config",
+				"configurationOptions"
+			],
+			[
+				"zoomIn",
+				"zoomInButton"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"Check",
+				"CheckoutFooter"
+			],
+			[
+				"quanti",
+				"quantity"
+			],
+			[
+				"w",
+				"width: "
+			],
+			[
+				"checkout",
+				"CheckoutNote"
+			],
+			[
+				"quantit",
+				"quantity"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"handel",
+				"handleUserChange"
+			],
+			[
+				"calcula",
+				"calculateTotalCost"
+			],
+			[
+				"product",
+				"productTd"
+			],
+			[
+				"check",
+				"checkBrowserSupport"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"serialize",
+				"serializeArray\t.serializeArray()"
+			],
+			[
+				"seria",
+				"serialize\t.serialize()"
+			],
+			[
+				"backgroun-",
+				"background-size"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"async",
+				"AsyncLoader"
+			],
+			[
+				"Asyn",
+				"asyncLoader"
+			],
+			[
+				"load",
+				"loadContent"
+			],
+			[
+				"post",
+				"postloadAction"
+			],
+			[
+				"preload",
+				"preloadAction"
+			],
+			[
+				"rgb",
+				"rgb2hex"
+			],
+			[
+				"bakcgound",
+				"background-color: "
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"show",
+				"showScrollbar"
+			],
+			[
+				"attr",
+				"setAttribute"
+			],
+			[
+				"desktop",
+				"desktopHidden"
+			],
+			[
+				"resol",
+				"resolutionChanged"
+			],
+			[
+				"Ca",
+				"CaseUi"
+			],
+			[
+				"new",
+				"newResolution"
+			],
+			[
+				"old",
+				"oldResolution"
+			],
+			[
+				"mobile",
+				"mobileOnly"
+			],
+			[
+				"animation",
+				"animationObject"
+			],
+			[
+				"trans",
+				"transform\tBourbon"
+			],
+			[
+				"animateTitle",
+				"animateTitleOff"
+			],
+			[
+				"scroll",
+				"scrollPosition"
+			],
+			[
+				"mat",
+				"margin-bottom"
+			],
+			[
+				"chan",
+				"changingElements"
+			],
+			[
+				"button",
+				"buttonGroup"
+			],
+			[
+				"image",
+				"imageHeight"
+			],
+			[
+				"ratio",
+				"ratioCanvas"
+			],
+			[
+				"cear",
+				"clear"
+			],
+			[
+				"output",
+				"outputCanvas"
+			],
+			[
+				"upper",
+				"upperLayerCanvas"
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			],
+			[
+				"upperl",
+				"upperLayerContextContext"
+			],
+			[
+				"escapeFom",
+				"escapeFromTopCanvas"
+			],
+			[
+				"setup",
+				"setupActiveMenuItem"
+			],
+			[
+				"arrow",
+				"arrowR"
+			],
+			[
+				"home",
+				"homeCanvas"
+			],
+			[
+				"margin",
+				"margin-left: "
+			],
+			[
+				"current",
+				"currentPage"
+			],
+			[
+				"ma",
+				"margin-bottom: "
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"posts_",
+				"posts_array"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"members",
+				"membersInTeam"
+			],
+			[
+				"member",
+				"membersInTeam"
+			],
+			[
+				"the",
+				"get_the_ID"
+			],
+			[
+				"title",
+				"post_title"
+			],
+			[
+				"escape",
+				"escapeFromTop"
+			],
+			[
+				"next",
+				"nextMember"
+			],
+			[
+				"start",
+				"startNextMember"
+			],
+			[
+				"x",
+				"xHeightCanvas"
+			],
+			[
+				"team",
+				"teamContext"
+			],
+			[
+				"escapeFromTop",
+				"escapeFromTopCanvas"
+			],
+			[
+				"font-",
+				"font-weight: "
+			],
+			[
+				"anima",
+				"animation\tBourbon"
+			],
+			[
+				"transf",
+				"transform-origin\tBourbon"
+			],
+			[
+				"menu",
+				"menuTimeline"
+			],
+			[
+				"ease",
+				"easeOut"
+			],
+			[
+				"filt",
+				"filterBlogPosts"
+			],
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"resize",
+				"resizeCanvas"
+			],
+			[
+				"transition",
+				"transition\tBourbon"
+			],
+			[
+				"stagge",
+				"staggerFromTo"
+			],
+			[
+				"cang",
+				"changingElems"
+			],
+			[
+				"margin-",
+				"margin-bottom: "
+			],
+			[
+				"auto",
+				"autoRound"
+			],
+			[
+				"animate",
+				"animateTitle"
+			],
+			[
+				"setT",
+				"setInterval"
+			],
+			[
+				"first",
+				"firstDistance"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"hover",
+				"hoverOnCurrentMember"
+			],
+			[
+				"position",
+				"positions"
+			],
+			[
+				"swap",
+				"swapElements"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"one",
+				"oneImageSize"
+			],
+			[
+				"change",
+				"changeSlides"
+			],
+			[
+				"move",
+				"moveImageLeft"
+			],
+			[
+				"padding-",
+				"padding-bottom: "
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"reveal",
+				"revealChain"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"seriali",
+				"serializeArray\t.serializeArray()"
+			],
+			[
+				"translate",
+				"translateX"
+			],
+			[
+				"sta",
+				"staggerFromTo"
+			],
+			[
+				"slider",
+				"sliderAnimating"
+			],
+			[
+				"curent",
+				"currentPage"
+			],
+			[
+				"get",
+				"getBounds"
+			],
+			[
+				"active",
+				"activeFilter"
+			],
+			[
+				"filter",
+				"filter\t.filter() function"
+			],
+			[
+				"workDe",
+				"workDetailsPage"
+			],
+			[
+				"previous",
+				"previousPage"
+			],
+			[
+				"global",
+				"globalObj"
+			],
+			[
+				"conta",
+				"contactPage"
+			],
+			[
+				"scrollBar",
+				"scrollbarCallbacks"
+			],
+			[
+				"initi",
+				"initialSpacing"
+			],
+			[
+				"ini",
+				"initial"
+			],
+			[
+				"word",
+				"word-wrap: "
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"alpha",
+				"autoAlpha"
+			],
+			[
+				"clone",
+				"cloneTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"jsbe",
+				"Javascript Beautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Javascript Beautify"
+			],
+			[
+				"sassbeau",
+				"SassBeautify"
+			],
+			[
+				"sassBe",
+				"SassBeautify"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"sassbe",
+				"SassBeautify"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"sassbea",
+				"SassBeautify"
+			],
+			[
+				"sasspre",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"sass bea",
+				"SassBeautify"
+			],
+			[
+				"sass",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"set syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"regex",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"sass ea",
+				"SassBeautify"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as SCSS Syntax"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src"
+	],
+	"file_history":
+	[
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/db.json",
+		"/D/WORK/xampp/htdocs/cedevitaklub/composer.json",
+		"/C/Users/tomislav/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/build/dev-server.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/app.sublime-project",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/package.json",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/npm-debug.log",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/favicon.png",
+		"/D/WORK/xampp/htdocs/cedevita/modx/.project",
+		"/C/Users/tomislav/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/Gruntfile.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/package.json",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/config/dev.env.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/config/index.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/main.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/dist/index.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/api/index.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/build/dev-client.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/build/webpack.dev.conf.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/npm-debug.log",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/index.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/README.md",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/config/test.env.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/config/prod.env.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/.gitignore",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/.eslintrc.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/.eslintignore",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/.editorconfig",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/.babelrc",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/asortiman - APP.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/pages/Asortiman.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/professional-home-APP.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/asortiman.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/KlubMenu.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/professional-home.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/pages/Upit.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/store/index.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/css/main.css",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/dist/static/js/vendor.f3c31d076da15a391c09.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/pages/Other.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/UpitItem.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/UpitTable.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/dist/static/js/manifest.e82a1641895a9b700f78.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/AsortimanItem.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/FormItem.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/core/model/modx/xmlrpc/xmlrpc.inc",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/upit.html",
+		"/D/WORK/xampp/htdocs/north2/web-assets/Gruntfile.js",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/js/modules/draggable.js",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/js/modules/about.js",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/js/modules/homepage.js",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/js/modules/canvas.js",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/Gruntfile.js",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/js/main.js",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/chunks/work-details.htm",
+		"/D/WORK/xampp-php 5.6/htdocs/north2/web-assets/templates/work-details.htm",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/store/mutation-types.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/router/index.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/App.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/store/modules/cart.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/store/modules/products.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/store/getters.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/store/actions.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/store/mutations.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/pages/Cjenik.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/pages/Akcije.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/pages/404.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/pages/KlubMenu.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/password-reset.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/404.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/Cjenik.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/Akcije.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/Asortiman.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/POS.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/cjenik.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/node_modules/node-sass/package.json",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/build/build.js",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/Upit.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/akcije.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/pos.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/node_modules/node-sass/package.json",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/shoppingCart/components/AdditionalInfo.jsx",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/shoppingCart/components/ProductRow.jsx",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/js/main_cms.js",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/sass/partials/_products-upgrade.scss",
+		"/D/WORK/xampp/htdocs/presenta/core/components/products/chunks/product_configuration_selector_led.htm",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/shoppingCart/containers/Checkout.jsx",
+		"/D/WORK/xampp/htdocs/presenta/core/components/products/snippets/product_content.php",
+		"/D/WORK/xampp/htdocs/presenta/core/components/products/chunks/product_content2.htm",
+		"/D/WORK/xampp/htdocs/presenta/core/components/products/chunks/cross_product.htm",
+		"/D/WORK/xampp/htdocs/presenta/core/components/products/chunks/product_content.htm",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/chunks/static/pages/account-cart.htm",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/Gruntfile.js",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/package.json",
+		"/D/WORK/xampp/htdocs/presenta/core/cache/includes/elements/modsnippet/88.include.cache.php",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/shoppingCart/main.js",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/snippets/checkCountryByIp.php",
+		"/D/WORK/xampp/htdocs/info.php",
+		"/D/WORK/xampp/htdocs/presenta/core/cache/includes/elements/modsnippet/107.include.cache.php",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/chunks/static/pages/account-thank-you-message.htm",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/shoppingCart/components/CheckoutFooter.jsx",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/templates/productShoppingCart.htm",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/sidebar.php",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/static/login.html",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/assets/logo.png",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/app/src/components/Hello.vue",
+		"/D/WORK/xampp/htdocs/cedevita/modx/klub/upit/package.json",
+		"/D/WORK/xampp/htdocs/wearealive/core/config/config.inc.php",
+		"/D/WORK/xampp/htdocs/wearealive/config.core.php",
+		"/D/WORK/xampp/htdocs/wearealive/config.core_DEV.php",
+		"/D/WORK/xampp/htdocs/wearealive/connectors/config.core.php",
+		"/D/WORK/xampp/htdocs/wearealive/core/config/config.inc_DEV.php",
+		"/D/WORK/xampp/htdocs/wearealive/connectors/config.core_DEV.php",
+		"/D/WORK/xampp/htdocs/wearealive/manager/config.core.php",
+		"/D/WORK/xampp/htdocs/wearealive/manager/config.core_DEV.php",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/sass/main.scss",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/Gruntfile.js",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/about.php",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/package.json",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/functions.php",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/template-parts/content-project-short.php",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/template-parts/content-blog-short.php",
+		"/D/WORK/xampp-php 5.6/htdocs/case3d/wordpress/wp-content/themes/case3d/archive-projects.php",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/webpack.config.js",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/shoppingCart/store.js",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/shoppingCart/containers/CheckoutCont.jsx",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/.eslintrc.js",
+		"/D/WORK/xampp/htdocs/presenta/web-assets/.babelrc"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 314.0,
+		"where_history":
+		[
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\klub\\app",
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\klub",
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\klub\\app",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\klub\\app\\src",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\klub\\app",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\wearealive",
+			"D:\\WORK\\xampp\\htdocs\\wearealive\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets\\chunks",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\international",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets\\chunks",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets\\templates",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\web-assets\\sass",
+			"D:\\WORK\\xampp\\htdocs\\presenta\\core\\components\\products",
+			"D:\\WORK\\xampp\\htdocs\\presenta",
+			"<current file>,D:\\WORK\\xampp\\htdocs\\presenta",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\presenta",
+			"<current file>",
+			"D:\\WORK\\xampp\\apache",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\dubravica\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\dubravica",
+			"D:\\WORK\\xampp\\htdocs\\bakina",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\tests\\locator",
+			"D:\\WORK\\xampp\\htdocs\\north2\\web-assets\\js",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\wordpress\\wp-content\\themes\\case3d",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\north2\\web-assets\\js",
+			"D:\\WORK\\xampp\\htdocs\\north2\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\north2",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\wordpress\\wp-content\\themes\\case3d\\js\\modules",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\wordpress\\wp-content\\themes\\case3d",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\wordpress",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\wordpress\\wp-content\\themes\\case3d",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\jade\\wp-content\\themes\\jade",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\static",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\wordpress\\wp-content\\themes\\case3d",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\wordpress\\wp-content\\themes\\case3d",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\static\\sass\\partials",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\tehnicka",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\static\\sass",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\north2\\web-assets\\js",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\static\\sass",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\north2\\web-assets\\js",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\jade\\wp-content\\themes\\jade\\",
+			"D:\\WORK\\xampp\\htdocs\\jade\\wp-content\\themes\\jade\\template-parts",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\static\\sass\\partials",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\static",
+			"D:\\WORK\\xampp\\htdocs\\jade\\wp-content\\plugins\\contact-form-7",
+			"D:\\WORK\\xampp\\htdocs\\jade",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\trunk\\static",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\trunk\\static\\sass",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\snippets",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\js",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\sass",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\berwicksWP\\wp-content\\themes\\berwicks",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\trunk\\static\\sass\\partials",
+			"D:\\WORK\\xampp\\htdocs\\",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\chunks",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\trunk\\static",
+			"D:\\WORK\\xampp\\htdocs\\cedevita\\modx\\international",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\case3d\\trunk\\static\\js",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\js\\",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\js\\modules",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\js",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\glenbrook\\public_html\\wp-content\\themes\\tbd",
+			"D:\\WORK\\xampp\\htdocs\\glenbrook\\public_html\\wp-content\\themes\\tbd\\page-templates",
+			"D:\\WORK\\xampp\\htdocs\\glenbrook\\public_html\\wp-content\\themes\\tbd",
+			"D:\\WORK\\xampp\\htdocs\\glenbrook\\public_html\\wp-content\\themes\\tbd\\js",
+			"D:\\WORK\\xampp\\htdocs\\glenbrook\\public_html",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\sass\\partials",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets",
+			"<current file>",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets\\js",
+			"D:\\WORK\\xampp\\htdocs\\north2\\north2new\\trunk\\modx\\web-assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Upit-app",
+			"pageContainer",
+			">\n",
+			"primaryNav",
+			"image",
+			"/static/js/",
+			"products",
+			"lastChe",
+			"CHECKOUT_SUCCESS",
+			"savedCartItems",
+			"console",
+			"valid",
+			"cart",
+			"value",
+			"v-for",
+			"console.log",
+			"Vue.set",
+			"category",
+			" {",
+			"rota",
+			"Firefox",
+			"'ie'",
+			"IE",
+			"Firefox",
+			"IE",
+			"Firefox",
+			"'ie",
+			"ie",
+			"Firefox",
+			"'IE'",
+			"(browser == 'IE')",
+			"'IE'",
+			"'IE",
+			"'IE'",
+			"'IE",
+			"overlay",
+			"item",
+			"items",
+			"order",
+			".order",
+			"map",
+			"activeOrder",
+			"oldOrder",
+			"lodash",
+			"callback",
+			".order",
+			" $",
+			"item",
+			"added",
+			"checkoutStatus",
+			"filter",
+			"order",
+			">\n",
+			"run",
+			"hotMiddleware",
+			"cart",
+			"category",
+			"related_products",
+			"led_light_color",
+			"led",
+			"prodSubtitle",
+			"led",
+			"file_get",
+			"saveDataToLocalStorage",
+			"Storage",
+			"storage",
+			"send",
+			"json",
+			"mask",
+			"firefox",
+			"wearealive/modx/",
+			"wearealive/modx/core/",
+			"thumbnail",
+			"thumbnail ima",
+			"quantiti",
+			"send-inquiry",
+			"pageInit",
+			"userLinks",
+			"price",
+			"currentConfig",
+			"currentConfig = ",
+			"currentConfig",
+			"spinner",
+			"found = true",
+			"spinner",
+			"calcu",
+			"spinnerSetup",
+			"spinnerChanged",
+			"spinnerSetup",
+			"spinnerChanged",
+			"calculateCost",
+			"currentConfig",
+			"checkoutForm",
+			"found = ",
+			"foundConfig",
+			"configurations",
+			"configurations = ",
+			"configurations",
+			"found",
+			"checkoutForm",
+			"cartLink",
+			"saveData",
+			"savedata",
+			"init: ",
+			"cart = ",
+			"saveDataTolocal",
+			"cart.helpers.saveDataToLocalStorage(items)",
+			"saveDataTolocal",
+			"saveDataTp",
+			"reduce",
+			"$.post",
+			"post",
+			"reduce",
+			"cart = ",
+			"shoppingCart",
+			"led",
+			"getConfig",
+			"productFormSetup",
+			"loadCartItems",
+			"shopping",
+			"pages",
+			"productShoppingCart",
+			"storage",
+			"addtocart",
+			"addcart",
+			"pnForm",
+			"submit",
+			"pnForm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/klub/app/dist/static/js/",
+			"(browser == 'IE' || browser == 'Firefox')",
+			"product",
+			"activeOrder",
+			".activeOrder",
+			"order",
+			"product",
+			"order",
+			"wearealive/",
+			"wearealive/core/",
+			"..",
+			"",
+			"className=",
+			"",
+			"className=\"",
+			"className=\"\\1",
+			"className=\\1",
+			"cart.checkoutForm",
+			"if (!cart.helpers.checkBrowserSupport()){\nreturn\n} else {",
+			"cart.init",
+			"D:/Work/xampp/htdocs/presenta/",
+			"cedevita",
+			"CedevitaDataSource",
+			"Ne želi koristiti",
+			"<input name=\"birthday-",
+			"Datum i godina rođenja *</label>",
+			"\n\t\t\t\t\t\t\t\tŽelim koristiti pogodnosti VAŠ ROĐENDAN popusta\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"formField collapsible\">",
+			"<div class=\"check\">\n\t\t\t\t\t\t\t<input id=\"birthday-1-2\" type=\"checkbox\" value=\"true\">\n\t\t\t\t\t\t\t<label for=\"birthday-1-2\">\n\t\t\t\t\t\t\t\tŽelim koristiti pogodnosti VAŠ ROĐENDAN popusta\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"formField collapsible\">",
+			"D:/WORK/xampp/htdocs/dubravica/",
+			"D:/Work/xampp/htdocs/bakina/",
+			"this.settings.",
+			"$_SERVER[\"DOCUMENT_ROOT\"] . '",
+			"__DIR__ . '..",
+			"$(this).attr('mask', \"url('\" + window.location.pathname + \"#\" + $(this).attr('mask').split(/[#)]/)[1] + \"')\");",
+			"$(this).attr('mask', \"url('\" + window.location.pathname + \"#\" + $(this).attr('mask').split('#')[1] + \"')\");",
+			"$(this).attr('mask', \"url(\" + window.location.pathname + \"#\" + $(this).attr('mask').split('#')[1]);",
+			"sharer.php",
+			"$('body, html').animate({",
+			"\n                                    var element = $('html').hasClass('chrome')? 'html': 'body';\n\n                                    $(element).animate({",
+			"$('body').animate({",
+			"e.preventDefault ? e.preventDefault() : (e.returnValue = false);",
+			"console.log",
+			"homeCanvas.context",
+			"preloader.",
+			"ppreloader.",
+			"p.show();",
+			"homeCanva",
+			"homeCanvas",
+			"homeContext",
+			"homeCanvas",
+			"Home",
+			"currentPage",
+			"revealUpwardsChain",
+			"<div id=\"ajax\" class=\"asyncWrapper\">",
+			"scale",
+			"\"",
+			"case3d",
+			"/$1/",
+			"/{1}/",
+			" desktopHidden\">View projects",
+			"desktopHidden\">View projects",
+			" class=\"desktopHidden\" >View projects",
+			"class=\"desktopHidden\" >View projects",
+			"\"",
+			"animations.menuTimeline",
+			".filterRemove",
+			"",
+			"xHeight",
+			"escapeFromTop",
+			"0",
+			"members.length",
+			"=",
+			"",
+			"AboutCanvas.members",
+			"AboutCanvas.diff",
+			"AboutCanvas.prevMember",
+			"AboutCanvas.nextMember",
+			"AboutCanvas.currentMember",
+			"AboutCanvas.winHeight",
+			"AboutCanvas.positions",
+			"AboutCanvas.quotes",
+			"AboutCanvas.names",
+			"AboutCanvas.images",
+			"ABoutCanvas.images",
+			",",
+			":",
+			"",
+			":",
+			"",
+			"revealUpwards",
+			"event.preventDefault ? event.preventDefault() : (event.returnValue = false);",
+			"e.preventDefault ? e.preventDefault() : (e.returnValue = false);",
+			"revealUpwards",
+			"revealUpwardsChain",
+			"revealUpwards",
+			"// console.log",
+			"i",
+			".png\" alt",
+			"/static/img/placeholders/osobe",
+			"<img class=\"memberImg\" id=\"",
+			"img class=\"memberImg\" id=\"",
+			"<img class=\"memberImg\" id=\"",
+			"<img src=\"",
+			"",
+			"object",
+			"city",
+			"animateHover",
+			"src=",
+			"",
+			"slider.slider",
+			"",
+			"src",
+			"titleTimeline",
+			"animateTitle",
+			"<img id=\"\" data-src=\"$1\" src=\"\"",
+			"<img id=\"\" data-src=\"$1\"",
+			"id=\"\" data-src=\"$1\" src=\"\"",
+			"id=\"\" data-src",
+			"<img src=\"\" data-src=\"$1\"",
+			"",
+			"animationTextWrapper",
+			"class=\"mainText\"",
+			"class=\"cloneText\"",
+			"",
+			"data-target-page=\"workPage\"",
+			"href=\"projects/\"",
+			"data-target-page=\"projectsPage\"",
+			"data-title=\"Projects\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 329.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"case3d\\trunk\\static\\sass\\partials\\_commons.scss"
+			],
+			[
+				"animate",
+				"Privatni projekti\\Rosacea\\app\\webroot\\js\\jquery-ui-1.10.4\\development-bundle\\demos\\resizable\\animate.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 964.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 448.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

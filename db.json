@@ -1,0 +1,94 @@
+{
+  "category-1": {
+    "title": "Category #1",
+    "shortDesc": "This is the first category."
+  },
+  "category-2": {
+    "title": "Category #2",
+    "shortDesc": "This is the second category."
+  },
+  "products": [
+    {
+      "id": 8,
+      "category": 0,
+      "title": "Product #1",
+      "image": "placeholder.png",
+      "max-num-items": 7,
+      "available": true
+    },
+    {
+      "id": 18,
+      "category": 0,
+      "title": "Product #2",
+      "image": "placeholder.png",
+      "max-num-items": 7,
+      "available": true
+    },
+    {
+      "id": 78,
+      "category": 0,
+      "title": "Product #3",
+      "image": "placeholder.png",
+      "max-num-items": 7,
+      "available": false
+    },
+    {
+      "id": 102,
+      "category": 0,
+      "title": "Product #4",
+      "image": "placeholder.png",
+      "max-num-items": 7,
+      "available": true
+    },
+    {
+      "id": 9,
+      "category": 1,
+      "title": "Product #1",
+      "image": "placeholder.png",
+      "max-num-items": 7,
+      "available": true
+    },
+    {
+      "id": 10,
+      "category": 1,
+      "title": "Product #2",
+      "image": "placeholder.png",
+      "max-num-items": 13,
+      "available": true
+    },
+    {
+      "id": 11,
+      "category": 1,
+      "title": "Product #3",
+      "image": "placeholder.png",
+      "max-num-items": 20,
+      "available": true
+    },
+    {
+      "id": 12,
+      "category": 1,
+      "title": "Product #4",
+      "image": "placeholder.png",
+      "max-num-items": 2,
+      "available": false
+    }
+  ],
+  "order": [
+    {
+      "id": 8,
+      "quantity": 3
+    },
+    {
+      "id": 12,
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "quantity": 8
+    }
+  ],
+  "send-order":
+    {
+      "response": "success"
+    }
+}

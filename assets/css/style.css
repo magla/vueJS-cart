@@ -1,0 +1,165 @@
+body {
+	background: #F5EBE6;
+	color: #434155;
+	font-family: Sansita;
+}
+
+img {
+	width: 100%;
+}
+
+#app {
+	width: 50%;
+	margin: auto;
+	min-width: 500px;
+	max-width: 1000px;
+}
+
+.primaryNav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-left: -10px;
+}
+
+.primaryNav li {
+	display: inline-block;
+	padding: 10px;
+}
+
+.primaryNav li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #434155;
+}
+
+.primaryNav li a.router-link-active {
+	color: #D08E5C;
+}
+
+.halfBox {
+	display: inline-block;
+	margin-right: 30px;
+	width: 100%;
+}
+
+.halfSectionAsim-2 {
+	border-bottom: solid 2px #434155;
+}
+
+form {
+	overflow-y: auto;
+	overflow-x: visible;
+	margin-top: 40px;
+}
+
+.fieldset-wrapper {
+	width: 100%;
+	position: relative;
+	float: left;
+	margin-bottom: 20px;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.cartPage .fieldset-wrapper {
+	border: none;
+}
+
+th {
+	color: #D08E5C;
+	padding-bottom: 5px;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+fieldset {
+	-webkit-appearance: none;
+	-webkit-padding-before: 0;
+  -webkit-padding-start: 0;
+  -webkit-padding-end: 0;
+  -webkit-padding-after: 0;
+	border: none;
+}
+
+.title3Fix {
+	width: 20%;
+	float: left;
+  margin-top: 10px;
+}
+
+.prodImgWrap {
+	width: 100px;
+	float: left;
+	margin: 0 20px 10px 0;
+}
+
+label {
+	margin-right: 10px;
+}
+
+input {
+	width: 100px;
+	font-size: 1rem;
+	padding: 10px;
+	background: white;
+	color: black;
+	border: none;
+	outline: none;
+}
+
+.fieldSet {
+	float: right;
+}
+
+.singleLink {
+	float: right;
+	margin-top: 20px;
+}
+
+.singleLink a {
+	text-transform: none;
+	color: black;
+}
+	
+.singleLink a:hover {
+	color: #D08E5C;
+}
+
+table {
+	width: 100%;
+  text-align: left;
+}
+
+table td {
+	width: 100px;
+}
+
+table tr.empty {
+	color: #999;
+}
+
+.killer {
+	cursor: pointer;
+}
+
+.killer:hover {
+	color: #D08E5C;
+}
+
+.highlighted3 {
+	margin-top: 60px;
+	background: #434155;
+	padding: 10px;
+	cursor: pointer;
+	color: white;
+	border: none;
+	outline: none;
+}
+
+.highlighted3:hover {
+	background: #D08E5C;
+}
+
+.fromHistoryMsg {
+	border-bottom: solid 2px #434155;
+}
+
