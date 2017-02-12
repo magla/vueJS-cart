@@ -1,3 +1,7 @@
+html {
+	overflow-y: scroll;
+}
+
 body {
 	background: #F5EBE6;
 	color: #434155;
@@ -161,5 +165,33 @@ table tr.empty {
 
 .fromHistoryMsg {
 	border-bottom: solid 2px #434155;
+}
+
+.view-enter-active {
+  transition: all 1s 0.5s
+}
+
+.view-leave-active {
+	transition: opacity 0.5s;
+}
+
+.view-enter {
+  opacity: 0;
+  transform: translateY(30px);
+  -webkit-transform: translateY(30px);
+}
+
+.view-enter-to {
+  opacity: 1;
+  transform: translateY(0);
+  -webkit-transform: translateY(0);
+}
+
+.view-leave {
+  opacity: 1;
+}
+
+.view-leave-to {
+	opacity: 0;
 }
 
